@@ -1,0 +1,27 @@
+/* src/Cart.css */
+.cart-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .cart-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .cart-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .cart-item img {
+    border-radius: 4px;
+  }
+  
+  .cart-item p {
+    margin: 0;
+  }
+  
